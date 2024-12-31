@@ -1,1 +1,6 @@
 this is a file from a second branch
+<<<<<<< Updated upstream
+=======
+this change is for 6th experiment
+this line is to demonstrate stashing
+>>>>>>> Stashed changes
